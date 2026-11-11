@@ -6,6 +6,18 @@ I lead business and technical teams through system changes, from requirements an
 
 [Portfolio](https://www.richcouch.com/) · [Résumé](https://www.richcouch.com/resume) · [LinkedIn](https://www.linkedin.com/in/richcouch) · [Contact](mailto:organizewithrich@gmail.com)
 
+## California Power Mix
+
+What changes as solar output falls through the afternoon? Move through a day of public CAISO data to see how the electricity supply mix changes.
+
+**[Try the demo](https://www.richcouch.com/lab/index.html#power)** · **[View source and methodology](https://github.com/learnorchurn/caiso-power-mix)**
+
+[![CAISO power-mix explorer in the original Live Data Lab, showing signed supply and battery readings at 20:00 Pacific on November 9, 2026.](https://raw.githubusercontent.com/learnorchurn/caiso-power-mix/main/power-mix-preview.jpg)](https://www.richcouch.com/lab/index.html#power)
+
+*Original Live Data Lab showing saved November 9, 2026 readings at 20:00 Pacific.*
+
+Directed by me, built with Codex. This is a personal project using public data, with source dates and limitations visible.
+
 ## Selected work
 
 | Program | My contribution |
@@ -17,14 +29,6 @@ I lead business and technical teams through system changes, from requirements an
 
 The case studies explain the work, decisions, and outcomes behind those summaries.
 
-## Try a project
-
-**[California power mix](https://www.richcouch.com/lab/index.html#power)** · [View source and methodology](https://github.com/learnorchurn/caiso-power-mix)
-
-Move through a day of public CAISO data to see how the electricity supply mix changes. The project makes data sources, snapshot dates, and limitations visible.
-
-Directed by me, built with Codex. This is a personal project using public data. It reflects my interest in turning a useful question into something people can inspect and understand.
-
 ## How I work
 
 I start by understanding the business problem and the people who need the result. I bring requirements, dependencies, and decisions into a delivery plan, then stay involved through launch and ongoing operations.
@@ -32,4 +36,5 @@ I start by understanding the business problem and the people who need the result
 Based in Albany, California. Open to Senior Program Manager and Technical Program Manager roles, including California remote and Bay Area hybrid opportunities.
 
 [View my résumé](https://www.richcouch.com/resume) or [get in touch](mailto:organizewithrich@gmail.com).
+
 
