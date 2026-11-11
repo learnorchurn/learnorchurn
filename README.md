@@ -19,7 +19,7 @@ The case studies explain the work, decisions, and outcomes behind those summarie
 
 ## Try a project
 
-**[California power mix](https://www.richcouch.com/lab/index.html#power)**
+**[California power mix](https://www.richcouch.com/lab/index.html#power)** · [View source and methodology](https://github.com/learnorchurn/caiso-power-mix)
 
 Move through a day of public CAISO data to see how the electricity supply mix changes. The project makes data sources, snapshot dates, and limitations visible.
 
